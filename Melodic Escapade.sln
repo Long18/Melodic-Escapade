@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2022.2", "JetBrains.Frontend.2022.2.csproj", "{381474a5-c2f5-8422-7a17-97774cdd02db}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{798cce5d-b522-f498-181f-e3af446389a8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{a8f371eb-2a6c-56a6-492a-1a77378d9bad}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{bb907414-3974-b2e7-27ab-03656655e399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2019.4", "JetBrains.Frontend.2019.4.csproj", "{c8cfb4c7-ebd9-bdf9-ef04-66f8b3f052c6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2021.2", "JetBrains.Frontend.2021.2.csproj", "{5e2bd99e-129a-ee6c-a4e4-30061d72bf2e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{d6d890dd-563c-0b6a-8dff-48b83fb51e48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrains.Frontend.2020.2", "JetBrains.Frontend.2020.2.csproj", "{099eedd8-5b37-31eb-9248-a9bd7fe00263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381474a5-c2f5-8422-7a17-97774cdd02db}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381474a5-c2f5-8422-7a17-97774cdd02db}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798cce5d-b522-f498-181f-e3af446389a8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798cce5d-b522-f498-181f-e3af446389a8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a8f371eb-2a6c-56a6-492a-1a77378d9bad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a8f371eb-2a6c-56a6-492a-1a77378d9bad}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bb907414-3974-b2e7-27ab-03656655e399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bb907414-3974-b2e7-27ab-03656655e399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c8cfb4c7-ebd9-bdf9-ef04-66f8b3f052c6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c8cfb4c7-ebd9-bdf9-ef04-66f8b3f052c6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5e2bd99e-129a-ee6c-a4e4-30061d72bf2e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5e2bd99e-129a-ee6c-a4e4-30061d72bf2e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d6d890dd-563c-0b6a-8dff-48b83fb51e48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d6d890dd-563c-0b6a-8dff-48b83fb51e48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099eedd8-5b37-31eb-9248-a9bd7fe00263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099eedd8-5b37-31eb-9248-a9bd7fe00263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
